@@ -43,7 +43,5 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=dracula&title_color=7765dc&text_color=ebf0c1" alt="ldeerl1" />
 </p>
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=ldeerl1&theme=dracula&title_color=7765dc&text_color=ebf0c1" alt="ldeerl1" />
-</p>
+
 
