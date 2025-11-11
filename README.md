@@ -1,5 +1,3 @@
-# my-portfolio
-My projects and experiments with frontend, Unity and interactive design.
 <h1 align="center">Hi 👋, I'm krylova Alyona</h1>
 <h3 align="center">Student Developer | Game & Interactive Enthusiast</h3>
 
