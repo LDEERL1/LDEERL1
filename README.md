@@ -13,10 +13,12 @@
 
 - ⚡ Fun fact **I love dogs**
   
-<h3 align="center">My last works:</h3>
+<h3 align="center">My demo works:</h3>
 <p align="center"> <a href="https://ldeerl1.github.io/GameXCard/">Site GameX Card</a>
 </p>
 <p align="center"> <a href="https://ldeerl1.github.io/WalkieTalkie/">Site WalkieTalkie</a>
+</p>
+<p align="center"> <a href="https://www.figma.com/design/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=0-1&t=h1ZKZRTONVwmi6Ri-1">Demo design figma Games</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,9 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
@@ -39,12 +39,17 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
@@ -54,11 +59,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
   
-  <!-- Добавленные инструменты -->
   <a href="https://www.autodesk.com/products/3ds-max" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/3ds-max.svg" alt="3ds max" width="40" height="40"/> 
   </a>
@@ -71,13 +72,9 @@
   <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign.svg" alt="indesign" width="40" height="40"/> 
   </a>
-
-  <a href="https://www.substance3d.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/adobe_substance3d/adobe_substance3d-icon.svg" alt="substance 3d" width="40" height="40"/> 
-</a>
-<a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://static.vecteezy.com/system/resources/previews/023/004/594/non_2x/capcut-logo-transparent-free-png.png" alt="capcut" width="40" height="40"/> 
-</a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  </a> 
 </p>
 <div align='left' id="My_workspace">
     <details>
