@@ -71,18 +71,13 @@
   <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign.svg" alt="indesign" width="40" height="40"/> 
   </a>
-  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-2020-1.svg" alt="coreldraw" width="40" height="40"/> 
-  </a>
+
   <a href="https://www.substance3d.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/substance-3d-painter.svg" alt="substance 3d" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-1.svg" alt="after effects" width="40" height="40"/> 
-  </a>
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://sf16-scmcdn-sg.ibytedtos.com/goofy/tiktok/web/node/_next/static/images/logo-3c29b4e2d4d4b035b65c9ad78b0b5731.svg" alt="capcut" width="40" height="40"/> 
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/adobe_substance3d/adobe_substance3d-icon.svg" alt="substance 3d" width="40" height="40"/> 
+</a>
+<a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://static.vecteezy.com/system/resources/previews/023/004/594/non_2x/capcut-logo-transparent-free-png.png" alt="capcut" width="40" height="40"/> 
+</a>
 </p>
 <div align='left' id="My_workspace">
     <details>
