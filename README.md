@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm krylova Alyona</h1>
+<h1 align="center">Hi 👋, I'm Krylova Alyona</h1>
 <h3 align="center">Student Developer | Game & Interactive Enthusiast</h3>
 
 - 🎓 **4th year Student in Information Systems & Technologies**
@@ -42,12 +42,11 @@
     </details>
 </div>
 
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=dracula&title_color=7765dc&text_color=ebf0c1&locale=en&layout=compact" alt="ldeerl1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="ldeerl1" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=dracula&title_color=7765dc&text_color=ebf0c1" alt="ldeerl1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="ldeerl1" />
 </p>
 
 
