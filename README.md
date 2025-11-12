@@ -14,8 +14,11 @@
 - ⚡ Fun fact **I love dogs**
   
 <h3 align="center">My demo works:</h3>
+
 🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+
 🔗 [Play WalkieTalkie](https://ldeerl1.github.io/WalkieTalkie/)
+
 🔗 [Visit GameX Card](https://ldeerl1.github.io/GameXCard/)
 
 <h3 align="left">Connect with me:</h3>
