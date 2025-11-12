@@ -22,9 +22,9 @@
 🔗 [Visit GameX Card](https://ldeerl1.github.io/GameXCard/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> Email: llimonkovna@gmail.com
+<p align="left"> Email: [llimonkovna@gmail.com](mailto:llimonkovna@gmail.com)
 </p>
-<p align="left"> Telegram: @limonadik15
+<p align="left"> Telegram: [@limonadik15](https://t.me/limonadik15)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
