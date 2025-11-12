@@ -12,6 +12,12 @@
 - 📚 **Constantly learning new technologies**
 
 - ⚡ Fun fact **I love dogs**
+  
+<h3 align="center">My last works:</h3>
+<p align="center"> <a href="https://ldeerl1.github.io/GameXCard/">Site GameX Card</a>
+</p>
+<p align="center"> <a href="https://ldeerl1.github.io/WalkieTalkie/">Site GameX Card</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Email: llimonkovna@gmail.com
