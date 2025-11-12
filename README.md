@@ -14,12 +14,54 @@
 - ⚡ Fun fact **I love dogs**
   
 <h3 align="center">My demo works:</h3>
-<p align="center"> <a href="https://ldeerl1.github.io/GameXCard/">Site GameX Card</a>
-</p>
-<p align="center"> <a href="https://ldeerl1.github.io/WalkieTalkie/">Site WalkieTalkie</a>
-</p>
-<p align="center"> <a href="https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1">Demo design figma Games</a>
-</p>
+## 🎮 My Projects
+
+### GameX Card
+A gamified debit card concept that transforms everyday spending into an RPG experience.
+
+**Features:**
+- **Game Currency:** Spend and earn money like experience points (1₽ = 1XP).
+- **Achievements:** Level up your profile by completing tasks and earning bonuses.
+- **Duel System:** Compete with friends for prizes.
+
+**Technologies:**
+- Web Design (HTML, CSS, JavaScript)
+- Interactive UI/UX
+
+🔗 [Visit GameX Card](https://ldeerl1.github.io/GameXCard/)
+
+---
+
+### WalkieTalkie
+An interactive project dedicated to morning walks with dogs.
+
+**Project Components:**
+
+**Mini-Game:** Help the owner gather all the necessary items for a walk with their dog. Find all the items so the dog can go for a walk.
+**Useful Articles:** Information about the importance of morning walks and necessary dog accessories.
+**Hygiene Info Block:** A reminder to wash the dog's paws and fur after walks.
+**About Me Section:** Information about the developer.
+
+**Technologies:**
+- Web Design (HTML, CSS, JavaScript)
+- Unity WebGL (for game integration)
+
+🔗 [Play WalkieTalkie](https://ldeerl1.github.io/WalkieTalkie/)
+
+---
+
+Game Design Demo on Figma
+A Figma prototype showcasing a carousel of favorite game categories.
+Features:
+
+Carousel Design: Interactive slider for browsing game categories.
+Visual Appeal: Attractive layout and design for game covers.
+
+Technologies:
+
+Figma (UI/UX Design)
+
+🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> Email: llimonkovna@gmail.com
