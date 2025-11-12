@@ -76,6 +76,13 @@ Email: llimonkovna@gmail.com
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
 </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="ldeerl1" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="ldeerl1" />
+</p>
+
 
 **🎮 Description My Projects**
 
@@ -140,11 +147,5 @@ Figma (UI/UX Design)
     </details>
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="ldeerl1" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="ldeerl1" />
-</p>
 
 
