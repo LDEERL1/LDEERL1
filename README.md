@@ -18,7 +18,7 @@
 </p>
 <p align="center"> <a href="https://ldeerl1.github.io/WalkieTalkie/">Site WalkieTalkie</a>
 </p>
-<p align="center"> <a href="https://www.figma.com/design/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=0-1&t=h1ZKZRTONVwmi6Ri-1">Demo design figma Games</a>
+<p align="center"> <a href="https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1">Demo design figma Games</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
