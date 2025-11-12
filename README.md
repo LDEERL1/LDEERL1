@@ -22,9 +22,10 @@
 🔗 [Visit GameX Card](https://ldeerl1.github.io/GameXCard/)
 
 <h3 align="left">Connect with me:</h3>
-**Email:** [llimonkovna@gmail.com](mailto:llimonkovna@gmail.com)
-**Telegram:** [@limonadik15](https://t.me/limonadik15)
 
+Email: llimonkovna@gmail.com
+
+🔗 [Telegram](https://t.me/limonadik15)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -76,7 +77,7 @@
   </a> 
 </p>
 
-**🎮 My Projects**
+**🎮 Description My Projects**
 
 ### GameX Card
 A gamified debit card concept that transforms everyday spending into an RPG experience.
