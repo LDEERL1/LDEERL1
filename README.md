@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Krylova Alyona</h1>
-<h3 align="center">Student Developer | Game & Interactive Enthusiast</h3>
+<h3 align="center">Full-Stack & Interactive Systems Developer  </h3>
 
-- 🎓 **4th year Student in Information Systems & Technologies**
+4th year Information Systems student
 
-- 🔭 **Looking for internship opportunities in tech**
+I build data-driven backend services, interactive web applications,  
+and real-time 3D systems.  
 
-- 🎮 **Passionate about Game Development, 3D Modeling & Interactive Design**
+My work combines backend architecture, API design, databases,  
+and interactive user experiences.
 
-- 🌐 **Learning Frontend (HTML/CSS/JS) and Unity**
-
-- 📚 **Constantly learning new technologies**
-
-- ⚡ Fun fact **I love dogs**
-  
+---
 <h3 align="center">My demo works:</h3>
+
+🔗 [View DeviceStats Live Demo](https://device-stats-wffb.onrender.com)  
+📦 [Repository](https://github.com/LDEERL1/device-stats)
 
 🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
@@ -26,6 +26,150 @@
 Email: llimonkovna@gmail.com
 
 🔗 [Telegram](https://t.me/limonadik15)
+
+## 🚀 Featured Projects
+
+### 📊 DeviceStats — Full-Stack Device Monitoring Service
+
+A full-stack web application for tracking device activity and statistics.
+
+This project demonstrates backend architecture design, REST API development,
+database integration, SPA frontend implementation, and production deployment.
+
+#### Architecture
+- ASP.NET Core Web API
+- PostgreSQL (Docker)
+- Dapper (lightweight data access)
+- Angular SPA
+- Render deployment
+
+#### Key Features
+- RESTful API with Swagger documentation
+- Device management endpoints
+- Activity statistics per device
+- Clean repository-based data access
+- Environment-based frontend configuration
+- CORS configuration for production
+- Dockerized database setup
+- Full client-server deployment
+
+This project reflects my ability to design and deploy a complete
+client-server system — from database schema to public production environment.
+
+🔗 Live Demo: https://device-stats-wffb.onrender.com  
+🔗 Repository: https://github.com/LDEERL1/device-stats  
+
+---
+
+### 🧩 3D Model Web Service (Django) — In Progress
+
+Currently developing a Django-based web service for managing and displaying 3D models.
+
+The focus of this project is backend logic, file handling, and interactive visualization.
+
+#### Implemented
+- 3D model upload system
+- Django admin integration
+- Media file configuration
+- Browser-based 3D rendering
+- Interactive model controls (rotation)
+- Automatic preview generation
+- Static & media setup
+- Production-ready structure
+
+#### Stack
+- Python
+- Django
+- Three.js
+- HTML/CSS
+- Backend-driven media management
+
+This project explores how backend systems interact with real-time 3D visualization inside web applications.
+
+---
+
+### 🎮 WalkieTalkie — Interactive Web Project
+
+An interactive project dedicated to morning walks with dogs.
+
+Includes:
+- Mini-game logic
+- Informational content blocks
+- Unity WebGL integration
+- Structured UI design
+
+Technologies:
+- HTML / CSS / JavaScript
+- Unity WebGL
+
+---
+
+### 🎨 GameX Card — Gamified Web Concept
+
+A conceptual web project transforming everyday spending into a gamified experience.
+
+Features:
+- XP-based virtual currency
+- Achievement logic
+- User progression concept
+- UI/UX-focused design
+
+Technologies:
+- Web Design (HTML, CSS, JS)
+- UI/UX design
+
+---
+
+## 🔍 Professional Interests
+
+- Backend development & API design  
+- Database architecture  
+- Interactive web applications  
+- Real-time systems (Unity)  
+- 3D modeling & visualization  
+- System-level thinking  
+
+I enjoy working across the full stack,  
+with particular interest in backend logic and interactive systems.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- ASP.NET Core
+- Django
+- REST APIs
+- Dapper
+- PostgreSQL
+- Docker
+
+### Frontend
+- Angular
+- TypeScript
+- HTML / CSS / JavaScript
+
+### Interactive & 3D
+- Unity
+- Three.js
+- Blender
+
+---
+
+## 📚 Currently Learning
+
+- System architecture patterns  
+- Scalable backend design  
+- Advanced database optimization  
+- Real-time web interactions  
+
+---
+
+I am open to internships and junior-level roles  
+in backend development, full-stack systems,  
+or interactive application development.
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -83,55 +227,6 @@ Email: llimonkovna@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="ldeerl1" />
 </p>
 
-
-**🎮 Description My Projects**
-
-### GameX Card
-A gamified debit card concept that transforms everyday spending into an RPG experience.
-
-**Features:**
-- **Game Currency:** Spend and earn money like experience points (1₽ = 1XP).
-- **Achievements:** Level up your profile by completing tasks and earning bonuses.
-- **Duel System:** Compete with friends for prizes.
-
-**Technologies:**
-- Web Design (HTML, CSS, JavaScript)
-- Interactive UI/UX
-
-🔗 [Visit GameX Card](https://ldeerl1.github.io/GameXCard/)
-
----
-
-### WalkieTalkie
-An interactive project dedicated to morning walks with dogs.
-
-**Project Components:**
-
-**Mini-Game:** Help the owner gather all the necessary items for a walk with their dog. Find all the items so the dog can go for a walk.
-**Useful Articles:** Information about the importance of morning walks and necessary dog accessories.
-**Hygiene Info Block:** A reminder to wash the dog's paws and fur after walks.
-**About Me Section:** Information about the developer.
-
-**Technologies:**
-- Web Design (HTML, CSS, JavaScript)
-- Unity WebGL (for game integration)
-
-🔗 [Play WalkieTalkie](https://ldeerl1.github.io/WalkieTalkie/)
-
----
-
-Game Design Demo on Figma
-A Figma prototype showcasing a carousel of favorite game categories.
-Features:
-
-Carousel Design: Interactive slider for browsing game categories.
-Visual Appeal: Attractive layout and design for game covers.
-
-Technologies:
-
-Figma (UI/UX Design)
-
-🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 <div align='left' id="My_workspace">
     <details>
         <summary align="left">💻 <strong>My Workspace</strong></summary>
