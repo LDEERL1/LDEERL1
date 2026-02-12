@@ -12,7 +12,7 @@ and interactive user experiences.
 ---
 <h3 align="center">My demo works:</h3>
 
-🔗 [View DeviceStats Live Demo](https://device-stats-wffb.onrender.com)  
+🔗 [View DeviceStats Live Demo((availability may vary by region))](https://device-stats-wffb.onrender.com)  
 📦 [Repository](https://github.com/LDEERL1/device-stats)
 
 🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
