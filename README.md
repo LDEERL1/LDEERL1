@@ -68,8 +68,6 @@ client-server system — from database schema to public production environment.
 
 Production-ready web platform for uploading, managing and interactively viewing 3D models in the browser.
 
----
-
 ### 🚀 Core Functionality
 
 - 3D model upload system (.glb)
@@ -80,8 +78,6 @@ Production-ready web platform for uploading, managing and interactively viewing 
 - Pagination-ready backend structure
 - Safe media handling & cleanup
 - Production static pipeline with hashed assets
-
----
 
 ### 🏗 Architecture
 
@@ -107,8 +103,6 @@ Production-ready web platform for uploading, managing and interactively viewing 
 🔗 **Live Demo:** https://ldeerl.pythonanywhere.com  
 📦 **Repository:** https://github.com/LDEERL1/realm-studio  
 
----
-
 ### 💡 What This Project Demonstrates
 
 - Backend-driven media system design  
@@ -116,7 +110,8 @@ Production-ready web platform for uploading, managing and interactively viewing 
 - Production deployment & debugging  
 - Static asset pipeline configuration  
 - Safe file storage architecture  
-- Full-stack problem solving  
+- Full-stack problem solving
+- 
 ---
 
 ### 🎮 WalkieTalkie — Interactive Web Project
