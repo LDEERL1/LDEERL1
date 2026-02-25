@@ -15,6 +15,9 @@ and interactive user experiences.
 🔗 [View DeviceStats Live Demo((availability may vary by region))](https://device-stats-wffb.onrender.com)  
 📦 [Repository](https://github.com/LDEERL1/device-stats)
 
+🔗 [View Realm Studio — 3D Model Gallery Platform Live Demo((availability may vary by region))](https://ldeerl.pythonanywhere.com/)  
+📦 [Repository](https://github.com/LDEERL1/realm-studio)
+
 🔗 [View Game Design Demo on Figma](https://www.figma.com/proto/vkTpW8KkJRkiObp8ggqFKX/Untitled?node-id=2-2330&p=f&t=rKVKJjILS3YFTpDd-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 🔗 [Play WalkieTalkie](https://ldeerl1.github.io/WalkieTalkie/)
@@ -61,31 +64,59 @@ client-server system — from database schema to public production environment.
 
 ---
 
-### 🧩 3D Model Web Service (Django) — In Progress
+## 🖼 Realm Studio — 3D Model Gallery Platform
 
-Currently developing a Django-based web service for managing and displaying 3D models.
+Production-ready web platform for uploading, managing and interactively viewing 3D models in the browser.
 
-The focus of this project is backend logic, file handling, and interactive visualization.
+---
 
-#### Implemented
-- 3D model upload system
-- Django admin integration
-- Media file configuration
-- Browser-based 3D rendering
-- Interactive model controls (rotation)
-- Automatic preview generation
-- Static & media setup
-- Production-ready structure
+### 🚀 Core Functionality
 
-#### Stack
-- Python
+- 3D model upload system (.glb)
+- Automatic thumbnail generation
+- Interactive WebGL rendering (Three.js)
+- Orbit camera controls
+- Model download support
+- Pagination-ready backend structure
+- Safe media handling & cleanup
+- Production static pipeline with hashed assets
+
+---
+
+### 🏗 Architecture
+
+**Backend**
 - Django
-- Three.js
-- HTML/CSS
-- Backend-driven media management
+- File & media storage management
+- Pillow (image processing)
+- Environment-based configuration
+- WhiteNoise + Manifest static storage
 
-This project explores how backend systems interact with real-time 3D visualization inside web applications.
+**Frontend**
+- Three.js (GLTFLoader, OrbitControls)
+- ES module integration
+- Custom viewer lifecycle management
+- Resource disposal & single-active-viewer logic
 
+**Deployment**
+- PythonAnywhere (WSGI)
+- Production configuration
+- Static & media separation
+- HTTPS enabled
+
+🔗 **Live Demo:** https://ldeerl.pythonanywhere.com  
+📦 **Repository:** https://github.com/LDEERL1/realm-studio  
+
+---
+
+### 💡 What This Project Demonstrates
+
+- Backend-driven media system design  
+- Integration of real-time 3D rendering into web applications  
+- Production deployment & debugging  
+- Static asset pipeline configuration  
+- Safe file storage architecture  
+- Full-stack problem solving  
 ---
 
 ### 🎮 WalkieTalkie — Interactive Web Project
@@ -220,12 +251,7 @@ or interactive application development.
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldeerl1&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="ldeerl1" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ldeerl1&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true" alt="ldeerl1" />
-</p>
+
 
 <div align='left' id="My_workspace">
     <details>
